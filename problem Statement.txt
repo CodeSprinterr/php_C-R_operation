@@ -1,0 +1,1 @@
+insert and read data from database using php+mysql
